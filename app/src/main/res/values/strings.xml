@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name" translatable="false">Explora</string>
+    <string name="search">Buscar lugar</string>
+    <string name="visited">Visitados: %1$d de %2$d</string> <!--Cómo funcionan 1$d y 2$d?-->
+
+    <plurals name="results_found">
+        <item quantity="one">%d sitio encontrado</item>
+        <item quantity="other">%d sitios encontrados</item>
+        <item quantity="many">%d de sitios encontrados</item>
+    </plurals>
+
+
+
+</resources>

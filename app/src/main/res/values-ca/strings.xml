@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="search">Recerca de lloc</string>
+    <string name="visited">Visitats: %1$d de %2$d</string> <!--Cómo funcionan 1$d y 2$d?-->
+    <plurals name="results_found">
+        <item quantity="one">%d lloc trobat</item>
+        <item quantity="other">%d llocs trobats</item>
+        <item quantity="many">%d de llocs trobats</item>
+    </plurals>
+</resources>

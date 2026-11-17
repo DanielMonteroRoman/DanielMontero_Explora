@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="search">Recherche de lieu</string>
+    <string name="visited">visités</string>
+    <plurals name="results_found">
+        <item quantity="one">juste %d site trouvé</item>
+        <item quantity="other">%d sites truvés</item>
+        <item quantity="many">%d de sites trouvés</item>
+    </plurals>
+</resources>

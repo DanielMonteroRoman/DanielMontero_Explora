@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="search">Search places</string>
+    <string name="visited">Visited: %1$d de %2$d</string> <!--Cómo funcionan 1$d y 2$d?-->
+    <plurals name="results_found">
+        <item quantity="one">%d site found</item>
+        <item quantity="other">%d sites found</item>
+    </plurals>
+
+</resources>
