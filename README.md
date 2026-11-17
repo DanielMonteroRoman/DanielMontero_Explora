@@ -34,24 +34,28 @@ Sin embargo, la aplicación estará disponible para todos los dispositivos Andro
 <h2>Utilizando Debugger y Logcat en Android Studio:</h2>
 
 Podemos ver el valor de la variable i por consola:
-<img width="2612" height="839" alt="i=index+1" src="https://github.com/user-attachments/assets/40ded291-67bf-468e-8052-958cde056f3e" />
+<img width="2612" height="839" alt="i=index+1" src="https://github.com/user-attachments/assets/717c948e-3b38-4392-bbad-52bc71342c53" />
+
 
 Se produce una excepción de tipo illegal argument. La copia se guarda en i+1 y como resultado obtenemos una lista con 2 claves iguales. CRASH
-<img width="2477" height="821" alt="Illegal Argument Exc Crash" src="https://github.com/user-attachments/assets/08b7a01e-c164-4ef9-bfe4-bf826868466a" />
+<img width="2477" height="821" alt="Illegal Argument Exc Crash" src="https://github.com/user-attachments/assets/57f577b4-d626-48d3-bce5-2f44ac50b28a" />
+
 
 Podemos ver el valor de la variable i por consola:
-<img width="2601" height="965" alt="i=index +50" src="https://github.com/user-attachments/assets/fa937e10-ae07-4119-a9de-355af34f54fc" />
+<img width="2601" height="965" alt="i=index +50" src="https://github.com/user-attachments/assets/8caafb84-dc0a-4742-ad62-3c17afadf2a7" />
 
 Se produce una excepción de tipo Out of Bounds:
-<img width="2190" height="797" alt="Out of Bound Exc Crash" src="https://github.com/user-attachments/assets/4e59203e-b3e6-4dcb-a012-2fa1f1e45eef" />
+<img width="2190" height="797" alt="Out of Bound Exc Crash" src="https://github.com/user-attachments/assets/545656cf-ba63-435c-9405-59f91f6958cb" />
+
 
 <h2>Ciclo de vida de la aplicación al girar la pantalla:</h2>
 
 Ejecución de la aplicación:
-<img width="1697" height="1083" alt="image" src="https://github.com/user-attachments/assets/47a549f1-bdb4-47df-9888-f464118d5ae6" />
+<img width="1714" height="991" alt="image" src="https://github.com/user-attachments/assets/a23b2cc7-a1e2-4ed0-805c-7de462ee30e3" />
 
 Giro de pantalla:
-<img width="1702" height="1065" alt="image" src="https://github.com/user-attachments/assets/0e38d171-c324-418d-afc9-16b3cead9de3" />
+<img width="1657" height="1067" alt="image" src="https://github.com/user-attachments/assets/2e140153-53d2-4467-a6b1-4ee20e5127c4" />
+
 
 La actividad es destruída y se vuelve a crear desde cero.
 
